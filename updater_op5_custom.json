@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "blu_spark custom",
+    "version": "r186",
+    "link": "https://github.com/engstk/op5/releases/download/r186/blu_spark_r186-custom_op5-op5t_e91cda11f.zip",
+    "changelog_url": "https://github.com/engstk/op5/files/4048764/changelog.txt",
+    "date": "2010-01-11",
+    "sha1": "4b49e5703693ea855951eb8d970105af30a220c9"
+  },
+  "support": {
+    "link": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/kernel-t3651933"
+  }
+}
