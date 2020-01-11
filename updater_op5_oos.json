@@ -1,6 +1,6 @@
 {
   "kernel": {
-    "name": "blu_spark OOS",
+    "name": "blu_spark OP5/T OOS",
     "version": "r186",
     "link": "https://github.com/engstk/op5/releases/download/r186/blu_spark_r186-oos_op5-op5t_4903b5799.zip",
     "changelog_url": "https://github.com/engstk/op5/files/4048798/changelog.txt",
