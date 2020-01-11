@@ -1,6 +1,6 @@
 {
   "kernel": {
-    "name": "blu_spark custom",
+    "name": "blu_spark OP5/T custom",
     "version": "r186",
     "link": "https://github.com/engstk/op5/releases/download/r186/blu_spark_r186-custom_op5-op5t_e91cda11f.zip",
     "changelog_url": "https://github.com/engstk/op5/files/4048798/changelog.txt",
