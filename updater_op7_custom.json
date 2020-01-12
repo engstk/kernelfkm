@@ -1,6 +1,6 @@
 {
   "kernel": {
-    "name": "blu_spark OP7/T/Pro OOS",
+    "name": "blu_spark OP7/T/Pro custom",
     "version": "r74",
     "link": "https://github.com/engstk/op7/releases/download/r74/blu_spark_r74-custom_op7x_cf4e4f62f.zip",
     "changelog_url": "https://github.com/engstk/op7/files/4051518/changelog.txt",
