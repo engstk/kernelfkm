@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "blu_spark OP7/T/Pro custom",
-    "version": "r74",
-    "link": "https://github.com/engstk/op7/releases/download/r74/blu_spark_r74-custom_op7x_cf4e4f62f.zip",
-    "changelog_url": "https://github.com/engstk/op7/files/4051518/changelog.txt",
-    "date": "2020-01-12",
-    "sha1": "fd3963446ab0053ec109a32006d5f62b7eff4f02"
+    "version": "r75",
+    "link": "https://github.com/engstk/op7/releases/download/r75/blu_spark_r75-custom_op7x_c55c596fb.zip",
+    "changelog_url": "https://github.com/engstk/op7/files/4081020/changelog.txt",
+    "date": "2020-01-18",
+    "sha1": "c2d13717fc8a779337e91cb0f7347d1171739f00"
   },
   "support": {
     "link": "https://forum.xda-developers.com/oneplus-7t/oneplus-7t--7t-pro-cross-device-development/kernel-t4002781"
