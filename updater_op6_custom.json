@@ -1,7 +1,7 @@
 {
   "kernel": {
     "name": "blu_spark OP6/T custom",
-    "version": "r123",
+    "version": "r125",
     "link": "https://github.com/engstk/op6/releases/download/r125/blu_spark_r125-custom_op6-op6t_e23e204ab.zip",
     "changelog_url": "https://github.com/engstk/op6/files/4561697/changelog.txt",
     "date": "2020-04-30",
