@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "blu_spark OP6/T OOS",
-    "version": "r126",
-    "link": "https://github.com/engstk/op6/releases/download/r126/blu_spark_r126-oos_op6-op6t_3d80080c8.zip",
-    "changelog_url": "https://github.com/engstk/op6/files/4565076/changelog.txt",
-    "date": "2020-05-01",
-    "sha1": "8be7f4f621312bb0df222dffeec8bb53c36074f8"
+    "version": "r128",
+    "link": "https://github.com/engstk/op6/releases/download/r128/blu_spark_r128-oos_op6-op6t_d7d71d23f.zip",
+    "changelog_url": "https://github.com/engstk/op6/files/4624943/changelog.txt",
+    "date": "2020-05-13",
+    "sha1": "50fb5f0ced44d2b458222b352d3e7cedb83eb3f0"
   },
   "support": {
     "link": "https://forum.xda-developers.com/oneplus-6/oneplus-6--6t-cross-device-development/kernel-t3800965"
