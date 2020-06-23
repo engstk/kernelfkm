@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "blu_spark OP5/T OOS",
-    "version": "r199",
-    "link": "https://github.com/engstk/op5/releases/download/r199/blu_spark_r199-oos_op5-op5t_5f1c8978f.zip",
-    "changelog_url": "https://github.com/engstk/op5/files/4638807/changelog.txt",
-    "date": "2020-05-16",
-    "sha1": "3ec989cefb66c75f72ff19a8038e0cab278f0b6b"
+    "version": "r201",
+    "link": "https://github.com/engstk/op5/releases/download/r201/blu_spark_r201-oos_op5-op5t_40e1652f3.zip",
+    "changelog_url": "https://github.com/engstk/op5/files/4821400/changelog.txt",
+    "date": "2020-06-23",
+    "sha1": "b5c5b887894bfd7c603953adce2f3f2b12a9891f"
   },
   "support": {
     "link": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/kernel-t3651933"
