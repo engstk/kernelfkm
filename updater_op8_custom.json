@@ -2,7 +2,7 @@
   "kernel": {
     "name": "blu_spark OP8 Pro custom",
     "version": "r32",
-    "link": "https://github.com/engstk/op8/releases/download/r32/blu_spark_r32-oos_op8x_0d8ce3f9f.zip",
+    "link": "https://github.com/engstk/op8/releases/download/r32/blu_spark_r32-custom_op8x_885e6f667.zip",
     "changelog_url": "https://github.com/engstk/op8/files/4898343/changelog.txt",
     "date": "2020-07-09",
     "sha1": "95237657a1f5eac05b1a773b9789b9d818d047f0"
