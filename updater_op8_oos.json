@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "blu_spark OP8 Pro OOS",
-    "version": "r38",
-    "link": "https://github.com/engstk/op8/releases/download/r38/blu_spark_r38-oos_op8x_e0b9204b0.zip",
-    "changelog_url": "https://github.com/engstk/op8/files/4965610/changelog.txt",
-    "date": "2020-07-23",
-    "sha1": "1c3b291d1771adb252497e389e7f954df7bf1ceb"
+    "version": "r44",
+    "link": "https://github.com/engstk/op8/releases/download/r44/blu_spark_r44-oos_op8x_a782bcf7f.zip",
+    "changelog_url": "https://github.com/engstk/op8/files/5111720/changelog.txt",
+    "date": "2020-08-22",
+    "sha1": "1b01fe1c125651943e972350a1c8e9939951be42"
   },
   "support": {
     "link": "https://forum.xda-developers.com/oneplus-8-pro/development/kernel-t4118517"
