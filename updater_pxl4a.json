@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "blu_spark for Pixel 4a (sunfish)",
+    "version": "r20",
+    "link": "https://github.com/engstk/pxl4a/releases/download/r20/blu_spark_r20-pxl4a_f4f3b09c9.zip",
+    "changelog_url": "https://github.com/engstk/pxl4a/files/5440692/changelog.txt",
+    "date": "2020-10-27",
+    "sha1": "d364dec796dd1f26d44228c4b7950308f7813c25"
+  },
+  "support": {
+    "link": "https://forum.xda-developers.com/pixel-4a/development/kernel-t4182455"
+  }
+}
