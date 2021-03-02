@@ -1,13 +1,13 @@
 {
   "kernel": {
     "name": "blu_spark OP5/T OOS",
-    "version": "r220",
-    "link": "https://github.com/engstk/op5/releases/download/r220/blu_spark_r220-oos_op5x_508f1ac0f.zip",
-    "changelog_url": "https://github.com/engstk/op5/files/5932594/changelog.txt",
-    "date": "2021-02-05",
-    "sha1": "272072f61a89d956b0d10756b8d2e8dc2e9e7851"
+    "version": "r221",
+    "link": "https://github.com/engstk/op5/releases/download/r221/blu_spark_r221-oos_op5x_7c0086455.zip",
+    "changelog_url": "https://github.com/engstk/op5/files/6065376/changelog.txt",
+    "date": "2021-03-02",
+    "sha1": "4062c40841e11af017336ff38a614b0edbe66aea"
   },
   "support": {
-    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r220-unified-op5-5t-a10-unified.3651933/"
+    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r221-unified-op5-5t-a10-unified.3651933/"
   }
 }
