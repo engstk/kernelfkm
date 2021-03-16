@@ -1,13 +1,13 @@
 {
   "kernel": {
     "name": "blu_spark OP8/Pro/T OOS",
-    "version": "r87",
-    "link": "https://github.com/engstk/op8/releases/download/r87/blu_spark_r87-oos_op8x_34d48b35a.zip",
-    "changelog_url": "https://github.com/engstk/op8/files/5904803/changelog.txt",
-    "date": "2021-01-31",
-    "sha1": "bd4958b47e79d2b4b834addb0427cb32620d55e9"
+    "version": "r90",
+    "link": "https://github.com/engstk/op8/releases/download/r90/blu_spark_r90-oos_op8x_4e4256913.zip",
+    "changelog_url": "https://github.com/engstk/op8/files/6149236/changelog.txt",
+    "date": "2021-03-16",
+    "sha1": "f897ce5e01aec98382cc406d554bb2be3d4d56c3"
   },
   "support": {
-    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r87-op8-pro-t-a11-oos-custom.4118517"
+    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r90-op8-pro-t-a11-oos-custom.4118517"
   }
 }
