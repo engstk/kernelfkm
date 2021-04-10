@@ -1,7 +1,7 @@
 {
   "kernel": {
     "name": "blu_spark OP7/T/Pro OOS",
-    "version": "r155",
+    "version": "r156",
     "link": "https://github.com/engstk/op7/releases/download/r156/blu_spark_r156-oos_op7x_3f44c71ec.zip",
     "changelog_url": "https://github.com/engstk/op7/files/6290813/changelog.txt",
     "date": "2021-04-10",
