@@ -1,13 +1,13 @@
 {
   "kernel": {
     "name": "blu_spark OP7/T/Pro OOS",
-    "version": "r157",
-    "link": "https://github.com/engstk/op7/releases/download/r157/blu_spark_r157-oos_op7x_5e1e3d86c.zip",
-    "changelog_url": "https://github.com/engstk/op7/files/6331459/changelog.txt",
-    "date": "2021-04-18",
-    "sha1": "38f791e8dff4dd571dfd1caf785562dbff8a1509"
+    "version": "r158",
+    "link": "https://github.com/engstk/op7/releases/download/r158/blu_spark_r158-oos_op7x_6b3bea8b9.zip",
+    "changelog_url": "https://github.com/engstk/op7/files/6369491/changelog.txt",
+    "date": "2021-04-24",
+    "sha1": "6869b627720cc28d3e57c6806b48322c3ebdb682"
   },
   "support": {
-    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r157-op7-t-pro-a11-oos.4002781/"
+    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r158-op7-t-pro-a11-oos.4002781/"
   }
 }
