@@ -1,13 +1,13 @@
 {
   "kernel": {
     "name": "blu_spark OP6/T OOS",
-    "version": "r160",
-    "link": "https://github.com/engstk/op6/releases/download/r160/blu_spark_r160-oos_op6x_24edeeb51.zip",
-    "changelog_url": "https://github.com/engstk/op6/files/6859419/changelog.txt",
-    "date": "2021-07-22",
-    "sha1": "b280e693ac1412855676fac2189c0da0cdaf3502"
+    "version": "r168",
+    "link": "https://github.com/engstk/op6/releases/download/r168/blu_spark_r168-oos_op6x_d1dff7e87.zip",
+    "changelog_url": "https://github.com/engstk/op6/files/7073300/changelog.txt",
+    "date": "2021-08-29",
+    "sha1": "2080218aeff816e102fc28b068d6161bc307d49a"
   },
   "support": {
-    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r160-op6-t-a10-oos-custom.3800965/"
+    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r168-op6-t-a11-oos.3800965"
   }
 }
