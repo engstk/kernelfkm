@@ -1,0 +1,14 @@
+
+{
+  "kernel": {
+    "name": "blu_spark for Pixel 6/Pro (raviole)",
+    "version": "r29",
+    "link": "https://github.com/engstk/pxl6/releases/download/r29/blu_spark_r29-pxl6_eeba43b91.zip",
+    "changelog_url": "https://github.com/engstk/pxl6/files/7654716/changelog.txt",
+    "date": "2021-12-04",
+    "sha1": "4a724acdcc9012473448c26fc59f6ede82452de1"
+  },
+  "support": {
+    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r29-a12.4370811/"
+  }
+}
