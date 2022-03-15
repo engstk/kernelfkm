@@ -1,13 +1,13 @@
 {
   "kernel": {
     "name": "blu_spark OP9/Pro OOS",
-    "version": "r54",
-    "link": "https://github.com/engstk/op9/releases/download/r54/blu_spark_r54-oos_op9x_5b3b016d0.zip",
-    "changelog_url": "https://github.com/engstk/op9/files/7962408/changelog.txt",
-    "date": "2022-01-28",
-    "sha1": "07e528df4c05aa03b025ff281ca5124df6bfa4d4"
+    "version": "r56",
+    "link": "https://github.com/engstk/op9/releases/download/r56/blu_spark_r56-oos_op9x_5e4e0de39.zip",
+    "changelog_url": "https://github.com/engstk/op9/files/8256177/changelog.txt",
+    "date": "2022-03-15",
+    "sha1": "a0162e76b30c06ba3c0d24ab3b11298b3a4b9f55"
   },
   "support": {
-    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r54-op9-pro-a11-oos.4286037/"
+    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r56-op9-pro-a11-oos.4286037/"
   }
 }
