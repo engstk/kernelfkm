@@ -1,13 +1,13 @@
 {
   "kernel": {
     "name": "blu_spark for Pixel 4a (sunfish)",
-    "version": "r149",
-    "link": "https://github.com/engstk/pxl4a/releases/download/r149/blu_spark_r149-pxl4a_1eb0fd77a.zip",
-    "changelog_url": "https://github.com/engstk/pxl4a/files/8216190/changelog.txt",
-    "date": "2022-03-09",
-    "sha1": "3e462dc472662fef11117026b42951eeb7b2cc2d"
+    "version": "r150",
+    "link": "https://github.com/engstk/pxl4a/releases/download/r150/blu_spark_r150-pxl4a_68a141fc8.zip",
+    "changelog_url": "https://github.com/engstk/pxl4a/files/8419727/changelog.txt",
+    "date": "2022-04-05",
+    "sha1": "dfd1b5300b4cf6d40263f1c8ac2537b0304d73e3"
   },
   "support": {
-    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r149-a12-l.4182455"
+    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r150-a12-l.4182455"
   }
 }
