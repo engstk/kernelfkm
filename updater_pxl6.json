@@ -1,13 +1,13 @@
 {
   "kernel": {
     "name": "blu_spark for Pixel 6/Pro (raviole)",
-    "version": "r57",
-    "link": "https://github.com/engstk/pxl6/releases/download/r57/blu_spark_r57-pxl6_d8aec7119.zip",
-    "changelog_url": "https://github.com/engstk/pxl6/files/8335573/changelog.txt",
-    "date": "2022-03-23",
-    "sha1": "962a4e98feb2a88bea34e8ab5ca0fe29b8391885"
+    "version": "r60",
+    "link": "https://github.com/engstk/pxl6/releases/download/r60/blu_spark_r60-pxl6_cdc2dfef9.zip",
+    "changelog_url": "https://github.com/engstk/pxl6/files/8453357/changelog.txt",
+    "date": "2022-04-08",
+    "sha1": "53cc5d0e27667ad15167596efd2d61f09310d294"
   },
   "support": {
-    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r57-a12l.4370811/"
+    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r60-a12l.4370811/"
   }
 }
