@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "blu_spark OP9/Pro Custom",
+    "version": "r91",
+    "link": "https://github.com/engstk/op9/releases/download/r91/blu_spark_r91-custom_op9x_8771b81a7.zip",
+    "changelog_url": "https://github.com/engstk/op9/files/8968954/changelog.txt",
+    "date": "2022-06-23",
+    "sha1": "d0954853d6d3e41d3330810044c299c64ac00361"
+  },
+  "support": {
+    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r91-op9-pro-a11-oos-a12-custom.4286037/"
+  }
+}
