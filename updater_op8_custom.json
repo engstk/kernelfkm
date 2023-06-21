@@ -1,7 +1,7 @@
 {
   "kernel": {
     "name": "blu_spark OP8/Pro/T custom",
-    "version": "r128",
+    "version": "r218",
     "link": "https://github.com/engstk/op8/releases/download/r218/blu_spark_r218-custom_op8x_20aa1b759.zip",
     "changelog_url": "https://github.com/engstk/op8/files/11772316/changelog.txt",
     "date": "2023-06-16",
