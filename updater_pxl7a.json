@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "blu_spark for Pixel 7a (lynx)",
+    "version": "r26",
+    "link": "https://github.com/engstk/pxl7a/releases/download/r26/blu_spark_r26-pxl7a_928e959e7.zip",
+    "changelog_url": "https://github.com/engstk/pxl7a/files/12918429/changelog.txt",
+    "date": "2023-10-16",
+    "sha1": "156aed7caddc35be8ac3caf103f1d8963cc06dc8"
+  },
+  "support": {
+    "link": "https://xdaforums.com/t/kernel-blu_spark-r26-a14-oct-2023.4636541/"
+  }
+}
