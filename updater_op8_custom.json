@@ -1,13 +1,13 @@
 {
   "kernel": {
     "name": "blu_spark OP8/Pro/T custom",
-    "version": "r230",
-    "link": "https://github.com/engstk/op8/releases/download/r230/blu_spark_r230-custom_op8x_033e7e719.zip",
-    "changelog_url": "https://github.com/engstk/op8/files/13811867/changelog.txt",
-    "date": "2024-01-02",
-    "sha1": "b89ed6f175c7b0effc61a696d2bbd9c6db24d8c7"
+    "version": "r231",
+    "link": "https://github.com/engstk/op8/releases/download/r231/blu_spark_r231-custom_op8x_57574d8b1.zip",
+    "changelog_url": "https://github.com/engstk/op8/files/13891062/changelog.txt",
+    "date": "2024-01-10",
+    "sha1": "3ab90fbb1b1f7c5cc498a48653b2b143a2f55049"
   },
   "support": {
-    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r230-op8-pro-t-a13-custom.4118517/"
+    "link": "https://forum.xda-developers.com/t/kernel-blu_spark-r231-op8-pro-t-a13-custom.4118517/"
   }
 }
