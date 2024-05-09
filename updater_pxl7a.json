@@ -1,13 +1,13 @@
 {
   "kernel": {
     "name": "blu_spark for Pixel 7a (lynx)",
-    "version": "r46",
-    "link": "https://github.com/engstk/pxl7a/releases/download/r46/blu_spark_r46-pxl7a_3c531467b.zip",
-    "changelog_url": "https://github.com/engstk/pxl7a/files/15045794/changelog.txt",
-    "date": "2024-04-19",
-    "sha1": "b69f4e612f21d9495d84b1a24f1ddf3364e0ee7a"
+    "version": "r53",
+    "link": "https://github.com/engstk/pxl7a/releases/download/r53/blu_spark_r53-pxl7a_261e25e1e.zip",
+    "changelog_url": "https://github.com/engstk/pxl7a/files/15262875/changelog.txt",
+    "date": "2024-05-09",
+    "sha1": "266620ea58e76d0d80aa26cbbe1d8c8e6424edf1"
   },
   "support": {
-    "link": "https://xdaforums.com/t/kernel-blu_spark-r46-a14-Apr-2024.4636541/"
+    "link": "https://xdaforums.com/t/kernel-blu_spark-r53-a14-May-2024.4636541/"
   }
 }
