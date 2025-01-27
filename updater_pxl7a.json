@@ -1,13 +1,13 @@
 {
   "kernel": {
-    "name": "blu_spark for Pixel 7a (lynx) + 7 (panther) + 7 Pro (cheetah)",
-    "version": "r90",
-    "link": "https://github.com/engstk/gs/releases/download/r90/blu_spark_r90-gs201_00c311035.zip",
-    "changelog_url": "https://github.com/user-attachments/files/18364100/changelog.txt",
-    "date": "2025-01-09",
-    "sha1": "f03fb334b79643863f5b4468c5a13e5abecba329"
+    "name": "blu_spark kernel for Pixel 7a+7/Pro",
+    "version": "r92",
+    "link": "https://github.com/engstk/gs/releases/download/r92/blu_spark_r92-gs201_8f6d985.zip",
+    "changelog_url": "https://github.com/engstk/gs/releases/download/r92/changelog.txt",
+    "date": "2025-01-27",
+    "sha1": "c19e6fbc1fc5f79092683d85648536ba7d111d9c"
   },
   "support": {
-    "link": "https://xdaforums.com/t/kernel-blu_spark-r90-pixel-7a-7-pro-a15-qpr1-jan-2025.4636541/"
+    "link": "https://xdaforums.com/t/kernel-blu_spark-r92-pixel-7a-7-pro-a15-qpr1-jan-2025.4636541/"
   }
 }
