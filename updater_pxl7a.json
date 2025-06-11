@@ -1,13 +1,13 @@
 {
   "kernel": {
     "name": "blu_spark kernel for Pixel 7a+7/Pro",
-    "version": "r225",
-    "link": "https://github.com/engstk/gs/releases/download/r225/blu_spark_r225-gs101+gs201_fdb8b2d.zip",
-    "changelog_url": "https://github.com/engstk/gs/releases/download/r225/changelog.txt",
-    "date": "2025-05-07",
-    "sha1": "674c5c426e29f1b2103862548efd44c1b2dc0773"
+    "version": "r228",
+    "link": "https://github.com/engstk/gs/releases/download/r228/blu_spark_r228-gs101+gs201_a7315d6.zip",
+    "changelog_url": "https://github.com/engstk/gs/releases/download/r228/changelog.txt",
+    "date": "2025-06-11",
+    "sha1": "67619612a4cdbf4effe8c002ccd9207adaa8bdb6"
   },
   "support": {
-    "link": "https://xdaforums.com/t/kernel-blu_spark-r225-pixel-7a-7-pro-a15-qpr2-may-2025.4636541/"
+    "link": "https://xdaforums.com/t/kernel-blu_spark-r228-pixel-7a-7-pro-a16-jun-2025.4636541/"
   }
 }
