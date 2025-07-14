@@ -1,13 +1,13 @@
 {
   "kernel": {
     "name": "blu_spark kernel for Pixel 6/Pro+6a",
-    "version": "r228",
-    "link": "https://github.com/engstk/gs/releases/download/r228/blu_spark_r228-gs101+gs201_a7315d6.zip",
-    "changelog_url": "https://github.com/engstk/gs/releases/download/r228/changelog.txt",
-    "date": "2025-06-11",
-    "sha1": "67619612a4cdbf4effe8c002ccd9207adaa8bdb6"
+    "version": "r229",
+    "link": "https://github.com/engstk/gs/releases/download/r229/blu_spark_r229-gs101+gs201_42148ce.zip",
+    "changelog_url": "https://github.com/engstk/gs/releases/download/r229/changelog.txt",
+    "date": "2025-07-14",
+    "sha1": "5150c20ccfa30480b2dcb18a2a16212954f27895"
   },
   "support": {
-    "link": "https://xdaforums.com/t/kernel-blu_spark-r226-pixel-6-pro-6a-a16-jun-2025.4370811/"
+    "link": "https://xdaforums.com/t/kernel-blu_spark-r229-pixel-6-pro-6a-a16-jul-2025.4370811/"
   }
 }
