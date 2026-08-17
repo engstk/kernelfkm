@@ -1,13 +1,13 @@
 {
   "kernel": {
     "name": "blu_spark OP9/Pro Custom",
-    "version": "r210",
-    "link": "https://github.com/engstk/op9/releases/download/r210/blu_spark_r210-custom-op9x_c942a05.zip",
-    "changelog_url": "https://github.com/engstk/op9/releases/download/r210/changelog.txt",
-    "date": "2026-08-09",
-    "sha1": "dff9205775973487d706f5ff34fdf0882e2b5185"
+    "version": "r211",
+    "link": "https://github.com/engstk/op9/releases/download/r211/blu_spark_r211-custom-op9x_0451ab4.zip",
+    "changelog_url": "https://github.com/engstk/op9/releases/download/r211/changelog.txt",
+    "date": "2026-08-17",
+    "sha1": "ec090ecf94b9daf865527121bf5e04e364498f44"
   },
   "support": {
-    "link": "https://xdaforums.com/t/kernel-blu_spark-r210-op9-pro-a16-qpr2-custom.4286037/"
+    "link": "https://xdaforums.com/t/kernel-blu_spark-r211-op9-pro-a16-qpr2-custom.4286037/"
   }
 }
