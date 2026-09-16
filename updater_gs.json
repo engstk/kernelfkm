@@ -1,13 +1,13 @@
 {
   "kernel": {
     "name": "blu_spark kernel for Pixel 6/7/8/9 series",
-    "version": "r268",
-    "link": "https://github.com/engstk/gs/releases/download/r268/blu_spark_r268-gs_2195a1f.zip",
-    "changelog_url": "https://github.com/engstk/gs/releases/download/r268/changelog.txt",
-    "date": "2026-08-15",
-    "sha1": "52940a73f322de9b11b8362c314dffdef48e5941"
+    "version": "r271",
+    "link": "https://github.com/engstk/gs/releases/download/r271/blu_spark_r271-gs_29d4a53.zip",
+    "changelog_url": "https://github.com/engstk/gs/releases/download/r271/changelog.txt",
+    "date": "2026-09-16",
+    "sha1": "9b0f60ed7bf7313137986b36feef38675f6bf47e"
   },
   "support": {
-    "link": "https://xdaforums.com/t/kernel-blu_spark-r268-pixel-6-7-8-9-series-a17-aug-2026.4370811/"
+    "link": "https://xdaforums.com/t/kernel-blu_spark-r271-pixel-6-7-8-9-series-a17-qpr1-sep-2026.4370811/"
   }
 }
