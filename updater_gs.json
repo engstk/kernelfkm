@@ -1,13 +1,13 @@
 {
   "kernel": {
     "name": "blu_spark kernel for Pixel 6/7/8/9/fold/tab series",
-    "version": "r283",
-    "link": "https://github.com/engstk/gs/releases/download/r283/blu_spark_r283-gs_3de3032.zip",
-    "changelog_url": "https://github.com/engstk/gs/releases/download/r283/changelog.txt",
-    "date": "2026-10-15",
-    "sha1": "3d244f7e49cac2e72ad508841fbec700f34e63b9"
+    "version": "v20261025",
+    "link": "https://github.com/engstk/gs/releases/download/v20261025/blu_spark_gs-v20261025-c27fbe2.zip",
+    "changelog_url": "https://github.com/engstk/gs/releases/download/v20261025/changelog.txt",
+    "date": "2026-10-26",
+    "sha1": "2b7976e9653706a5872906a3ffb245cc74c9a62d"
   },
   "support": {
-    "link": "https://xdaforums.com/t/kernel-blu_spark-r283-pixel-6-7-8-9-fold-tab-series-a17-qpr1-oct-2026.4370811/"
+    "link": "https://xdaforums.com/t/kernel-blu_spark-v20261025-pixel-6-7-8-9-fold-tab-series-a17-oct-2026.4370811/"
   }
 }
