@@ -2,7 +2,7 @@
   "kernel": {
     "name": "blu_spark kernel for Pixel 6/7/8/9/fold/tab series",
     "version": "v20261111",
-    "link": "sha256:5d3a3fd2241b6a4f59abf4ea5e26941d03aa3fc8779745b6f657092cfce85270",
+    "link": "https://github.com/engstk/gs/releases/download/v20261111/blu_spark_gs-v20261111-4fd6b15.zip",
     "changelog_url": "https://github.com/engstk/gs/releases/download/v20261111/changelog.txt",
     "date": "2026-11-11",
     "sha1": "58482bb277ffbe7ba96081a6c2f4c31f0ba1caa0"
